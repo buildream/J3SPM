@@ -1,5 +1,5 @@
-# J3SPM
-Software package of J3SPM.
+# J<sup>3</sup>SPM
+Software package of J<sup>3</sup>SPM.
 
 1. J3SPM_V1.ino : firmware for arduino mega
 2. J3SPMDAQ folder: library for ADC and DAC
